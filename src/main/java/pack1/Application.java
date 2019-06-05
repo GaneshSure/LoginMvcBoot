@@ -9,6 +9,7 @@ public class Application
 {
 	public static void main(String[] args)
 	{
+		//Demanistration of Spring MVC boot
 		SpringApplication.run(Application.class, args);
 	}
 }
